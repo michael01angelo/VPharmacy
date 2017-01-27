@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="Database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pharmacy</Value>
+    </Setting>
+    <Setting Name="CompanyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">V-PHARMA</Value>
+    </Setting>
+    <Setting Name="CompanyAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tarlac City</Value>
+    </Setting>
+    <Setting Name="CompanyNumbers" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Developers" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://sign01.iwopop.com/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
